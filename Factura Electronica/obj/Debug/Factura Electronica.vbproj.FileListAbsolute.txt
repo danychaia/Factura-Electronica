@@ -1,0 +1,15 @@
+c:\users\danny\documents\visual studio 2013\Projects\Factura Electronica\Factura Electronica\bin\Debug\Factura Electronica.exe.config
+c:\users\danny\documents\visual studio 2013\Projects\Factura Electronica\Factura Electronica\bin\Debug\Factura Electronica.exe
+c:\users\danny\documents\visual studio 2013\Projects\Factura Electronica\Factura Electronica\bin\Debug\Factura Electronica.pdb
+c:\users\danny\documents\visual studio 2013\Projects\Factura Electronica\Factura Electronica\bin\Debug\Factura Electronica.xml
+c:\users\danny\documents\visual studio 2013\Projects\Factura Electronica\Factura Electronica\obj\Debug\Factura_Electronica.Resources.resources
+c:\users\danny\documents\visual studio 2013\Projects\Factura Electronica\Factura Electronica\obj\Debug\Factura Electronica.vbproj.GenerateResource.Cache
+c:\users\danny\documents\visual studio 2013\Projects\Factura Electronica\Factura Electronica\obj\Debug\Factura Electronica.exe
+c:\users\danny\documents\visual studio 2013\Projects\Factura Electronica\Factura Electronica\obj\Debug\Factura Electronica.xml
+c:\users\danny\documents\visual studio 2013\Projects\Factura Electronica\Factura Electronica\obj\Debug\Factura Electronica.pdb
+c:\users\danny\documents\visual studio 2013\Projects\Factura Electronica\Factura Electronica\obj\Debug\Factura Electronica.exe.licenses
+c:\users\danny\documents\visual studio 2013\Projects\Factura Electronica\Factura Electronica\obj\Debug\Factura_Electronica.MenuPrincipal.resources
+c:\users\danny\documents\visual studio 2013\Projects\Factura Electronica\Factura Electronica\obj\Debug\Factura_Electronica.frmBaseDatos.resources
+c:\users\danny\documents\visual studio 2013\Projects\Factura Electronica\Factura Electronica\obj\Debug\Factura_Electronica.frmGface.resources
+C:\Users\DANNY\Documents\Visual Studio 2013\Projects\Factura Electronica\Factura Electronica\obj\Debug\Factura_Electronica.frmCargaFacturas.resources
+C:\Users\DANNY\documents\visual studio 2013\Projects\Factura Electronica\Factura Electronica\obj\Debug\Factura Electronica.vbprojResolveAssemblyReference.cache
